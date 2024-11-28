@@ -77,3 +77,14 @@ Key features:
 ```bash
 git clone https://github.com/your-username/stock-price-prediction.git
 cd stock-price-prediction
+```
+### 2. - **Moving Averages (MA7, MA21)**: Captures short- and long-term trends.
+- Open the .ipynb file in Jupyter Notebook or Colab.
+- Follow the steps for preprocessing, training, and evaluation.
+
+## Setup and Usage
+| Aspect            | LSTM      | GRU    | GAN |
+|-------------------|-----------|--------|-----|
+| Training Time     | Moderate  | Fast   |Slow |
+| Performance (RMSE)| Good      | Better |Best |
+| Computational Cost| High      |Moderate|High |
